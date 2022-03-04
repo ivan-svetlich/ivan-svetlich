@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">&nbsp;&nbsp;
-<a href="https://linkedin.com/in/ivan-svetlich-1ba900206" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/512px-LinkedIn_Logo.svg.png" alt="ivan-svetlich" height="30" /></a>
+<a href="https://linkedin.com/in/ivan-svetlich" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/512px-LinkedIn_Logo.svg.png" alt="ivan-svetlich" height="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
