@@ -1,7 +1,7 @@
 <h1 align="center">Hello everyone! 👋</h1>
 <h4 align="left">My name is Ivan Svetlich and I'm an Electronic Engineering student and full-stack developer from Argentina. I mainly code in .NET, TypeScript and React.js, but I'm always open to explore new technologies. I also love statistics and data analysis!</h4>
 
-- 🌱 I’m currently learning JAVA (Spring) and numerical simulation in R
+- 🌱 I’m currently learning Java (Spring) and numerical simulation in R
 
 - 👨‍💻 All of my projects are available at :point_right: [https://github.com/ivan-svetlich?tab=repositories](https://github.com/ivan-svetlich?tab=repositories)
 
