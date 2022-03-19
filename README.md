@@ -7,7 +7,7 @@
 
 - 📫 How to reach me :point_right: **ivansvetlich@gmail.com**
 
-- 📄 My resume (in Spanish) :point_right: [Ivan Svetlich - CV](https://media-exp1.licdn.com/dms/document/C4E2DAQH5rof0lu92Dw/profile-treasury-document-pdf-analyzed/0/1646402207080?e=1646488800&v=beta&t=mdDTk_1TsEABPb6n6yFp3E91QGs4520Yictk_R853OI)
+- 📄 My resume (in Spanish) :point_right: [Ivan Svetlich - CV](https://github.com/ivan-svetlich/ivan-svetlich/blob/main/Ivan%20Svetlich%20-%20resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">&nbsp;&nbsp;
