@@ -1,5 +1,5 @@
 <h1 align="center">Hello everyone! 👋</h1>
-<h4 align="left">My name is Ivan Svetlich and I'm an Electronic Engineering student and full-stack developer from Argentina. I mainly code in .NET, TypeScript and React.js, but I'm always open to explore new technologies. I also love statistics and data analysis!</h4>
+<h4 align="left">My name is Ivan Svetlich and I'm an Electronic Engineering student and full-stack developer from Argentina. I mainly code in C# .NET, TypeScript and React.js, but I'm always open to explore new technologies. I also love statistics and data analysis!</h4>
 
 - 🌱 I’m currently learning [Java (Spring)](https://github.com/ivan-svetlich/planner-app) and [inferential statistics with R](https://github.com/ivan-svetlich/statistics-r)
 
