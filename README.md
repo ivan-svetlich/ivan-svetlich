@@ -1,7 +1,9 @@
 <h1 align="center">Hello everyone! 👋</h1>
-<h4 align="left">My name is Ivan Svetlich and I'm an Electronic Engineering student and full-stack developer from Argentina. I mainly code in C# .NET, TypeScript and React.js, but I'm always open to explore new technologies. I also love statistics and data analysis!</h4>
+<h4 align="justify">My name is Ivan Svetlich and I'm a software developer and Electronic Engineering student from Argentina. I’m currently working on Toll Collection Systems using C#, C++ and SQL.</h4>
+<h4 align="justify">I enjoy exploring new technologies and 'learning by doing'. I've done multiple projects in different languages, such as C#, Java, Typescript, React.js and Python. They can be seen in my GitHub page.</h4>
+<h4 align="justify">I'm also interested in statistics and data analysis, and I think they are increasingly relevant tools in the technology field. I recently completed a postgraduate course on computational statistics, where I learnt how to visualize, interpret and process data using R.</h4>
 
-- 🌱 I’m currently learning C++ and [inferential statistics with R](https://github.com/ivan-svetlich/statistics-r)
+<br/>
 
 - 👨‍💻 All of my projects are available at :point_right: [https://github.com/ivan-svetlich?tab=repositories](https://github.com/ivan-svetlich?tab=repositories)
 
@@ -9,10 +11,14 @@
 
 - 📄 My resume (in Spanish) :point_right: [Ivan Svetlich - CV](https://github.com/ivan-svetlich/ivan-svetlich/blob/main/Ivan%20Svetlich%20-%20CV.pdf)
 
+<br/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">&nbsp;&nbsp;
 <a href="https://linkedin.com/in/ivan-svetlich" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/512px-LinkedIn_Logo.svg.png" alt="ivan-svetlich" height="30" /></a>
 </p>
+
+<br/>
 
 <h3 align="left">Languages and Tools:</h3>
 
