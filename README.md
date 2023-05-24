@@ -1,7 +1,5 @@
 <h1 align="center">Hello everyone! 👋</h1>
-<h4 align="justify">My name is Ivan Svetlich and I'm a software developer and Electronic Engineering student from Argentina. I’m currently working on Toll Collection Systems using C#, C++ and SQL.</h4>
-<h4 align="justify">I enjoy exploring new technologies and 'learning by doing'. I've done multiple projects in different languages, such as C#, Java, Typescript, React.js and Python. They can be seen in my GitHub page.</h4>
-<h4 align="justify">I'm also interested in statistics and data analysis, and I think they are increasingly relevant tools in the technology field. I recently completed a postgraduate course on computational statistics, where I learnt how to visualize, interpret and process data using R.</h4>
+<h4 align="justify">Hi, I'm Ivan, a passionate software developer and Electronic Engineering student from Argentina. Currently, I am working on Toll Collection Systems utilizing C# .NET, C++, SQL Server and PowerShell, as well as Python for data analysis and visualization.</h4>
 
 <br/>
 
