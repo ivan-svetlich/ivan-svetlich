@@ -1,8 +1,10 @@
 <h1 align="center">Hello everyone! 👋</h1>
-<h4 align="justify">Hi, I'm Ivan, a passionate software developer and Electronic Engineering student from Argentina. Currently, I am working on Toll Collection Systems utilizing C# .NET, C++, SQL Server and PowerShell, as well as Python for data analysis and visualization.</h4>
-<h4 align="justify">I'm always exploring new technologies to expand my skill set. I have hands-on experience in various programming languages such as C#, Java, Typescript, React.js, and Python.</h4>
-<h4 align="justify">Statistics and data science enthusiast.</h4>
+I'm Ivan, a software developer with one year of experience in the design, implementation, and maintenance of solutions based on C# .NET, C++ and SQL Server. I'm also proficient in Python, which I frequently use for task automation and data analysis.
+<br/>
+<br/>
+I'm always eager to take on new challenges and learn new technologies in order to deliver better solutions and continue my professional growth in the software development field.
 
+<br/>
 <br/>
 
 - 👨‍💻 All of my projects are available at :point_right: [https://github.com/ivan-svetlich?tab=repositories](https://github.com/ivan-svetlich?tab=repositories)
